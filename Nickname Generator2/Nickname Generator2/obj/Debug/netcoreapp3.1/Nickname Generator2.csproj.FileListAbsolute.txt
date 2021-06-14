@@ -1,0 +1,11 @@
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.exe
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.deps.json
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.runtimeconfig.json
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.runtimeconfig.dev.json
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.dll
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\bin\Debug\netcoreapp3.1\Nickname Generator2.pdb
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\obj\Debug\netcoreapp3.1\Nickname Generator2.csprojAssemblyReference.cache
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\obj\Debug\netcoreapp3.1\Nickname Generator2.AssemblyInfoInputs.cache
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\obj\Debug\netcoreapp3.1\Nickname Generator2.AssemblyInfo.cs
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\obj\Debug\netcoreapp3.1\Nickname Generator2.dll
+I:\Evans code\SchoolCode\C#\Nickname Generator2\Nickname Generator2\obj\Debug\netcoreapp3.1\Nickname Generator2.pdb
